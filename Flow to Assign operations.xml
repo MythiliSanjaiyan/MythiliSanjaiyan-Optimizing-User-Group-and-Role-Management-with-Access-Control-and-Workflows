@@ -1,0 +1,45 @@
+<unload unload_date="2025-09-13 14:14:42">
+<u_task_table_2 action="INSERT_OR_UPDATE">
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-09-12 14:37:33</sys_created_on>
+<sys_id>50ee1bf383bfa610350e9730ceaad3ac</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-09-12 19:25:23</sys_updated_on>
+<u_assigned_to/>
+<u_comments/>
+<u_due_to>2025-09-12</u_due_to>
+<u_status>approved</u_status>
+<u_task_id>bob</u_task_id>
+<u_task_name/>
+</u_task_table_2>
+</unload>
+
+<unload unload_date="2025-09-13 14:17:38">
+<sysapproval_approver action="INSERT_OR_UPDATE">
+<approval_column>u_status</approval_column>
+<approval_journal_column>approval_history</approval_journal_column>
+<approval_reason/>
+<approval_source>ui.desktop</approval_source>
+<approver display_value="alice p">c032572683fb2210350e9730ceaad399</approver>
+<comments/>
+<document_id>50ee1bf383bfa610350e9730ceaad3ac</document_id>
+<due_date>2025-09-12 15:43:22</due_date>
+<expected_start>2025-09-12 15:43:22</expected_start>
+<group display_value=""/>
+<iteration>1</iteration>
+<order/>
+<process_step display_value=""/>
+<source_table>u_task_table_2</source_table>
+<state>approved</state>
+<state_binding display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-09-12 15:43:22</sys_created_on>
+<sys_id>e43ee7f783ffa610350e9730ceaad3d9</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-09-12 15:49:21</sys_updated_on>
+<sysapproval display_value=""/>
+<wf_activity display_value=""/>
+</sysapproval_approver>
+</unload>

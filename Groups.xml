@@ -1,0 +1,24 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<unload unload_date="2025-09-13 09:33:21">
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description/>
+<email/>
+<exclude_manager>false</exclude_manager>
+<include_members>false</include_members>
+<manager display_value=""/>
+<name>project team</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-09-08 16:41:33</sys_created_on>
+<sys_id>5ea497e683fb2210350e9730ceaad30b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-09-08 16:41:33</sys_updated_on>
+<type/>
+</sys_user_group>
+</unload>
